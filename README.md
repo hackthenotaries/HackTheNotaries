@@ -9,8 +9,8 @@ If you have a startup or iniciative with the mission of reducing the bureaucracy
 - Timestamping
 - Authentication
 - Digital Certification
-- Landing registering
-- Digital assets transfering
+- Landing registration
+- Assets transfering
 - and others
 
 **We are under construction and open for contributors**
