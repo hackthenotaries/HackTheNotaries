@@ -7,6 +7,8 @@ If you have a startup or iniciative with the mission of reducing the bureaucracy
 ### #HackTheNotaries is looking for startups on the following topics:
 - Identity
 - Timestamping
+- Signing documents and contracts
+- Proof-of-authorship
 - Authentication
 - Digital Certification
 - Landing registration
